@@ -1,4 +1,4 @@
-![HEADER](https://github.com/kiozet/kiozet/blob/main/assets/ssstwitter.com_1684525891030.gif)
+![HEADER]([https://github.com/kiozet/kiozet/blob/main/assets/ssstwitter.com_1684525891030.gif](https://github.com/kiozet/kiozet/blob/main/assets/steamuserimages-a.akamaihd.gif))
 ### Hi there 👋
 
 Here are some ideas to get you started:
